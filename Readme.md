@@ -1,0 +1,1 @@
+Olá, esse projeto ensina você a criar um site simples usando apenas HTML e CSS!
